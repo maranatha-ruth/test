@@ -2,3 +2,25 @@ p{
     font-style:italic;
     colour:blue;
 }
+
+nav{
+    max-width:960px;
+    margin:0 auto;
+    padding:10px
+    margin-right:0%
+}
+nav>ul{
+    text-align: block;
+
+}
+nav>ul>li{
+    display: inline-block
+}
+nav ul li a{
+    padding:10px;
+    marging-right:0;
+    text-decoration:none;
+    text-transformation:uppercase;
+    display:block;
+
+}
